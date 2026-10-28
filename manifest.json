@@ -1,0 +1,10 @@
+{
+  "name": "Shack_Recycler",
+  "version_number": "1.1.1",
+  "website_url": "",
+  "description": "Recycle tab at the workbench, forge and stonecutter: gear, tools, ammo, nails and bronze back into what they cost. Research tab: use up things you can't craft yet (food too) to learn their recipes. Never more than it cost.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
