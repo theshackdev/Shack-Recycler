@@ -10,7 +10,7 @@
     <DebugType>none</DebugType>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <ValheimManaged>$(HOME)/.steam/steam/steamapps/common/Valheim/valheim_Data/Managed</ValheimManaged>
-    <ProfileRoot>$(HOME)/.config/r2modmanPlus-local/Valheim/profiles/The Shack Next/BepInEx</ProfileRoot>
+    <ProfileRoot>$(HOME)/.config/r2modmanPlus-local/Valheim/profiles/The Shack Pack Test Environment/BepInEx</ProfileRoot>
   </PropertyGroup>
 
   <!-- Compile-time references only; the game, BepInEx and Jotunn supply them at runtime. -->
